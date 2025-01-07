@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 /*
- * Alerts are not web-elements
+ * Alerts are not web-elements.
  */
 
 public class AlertDemo {
